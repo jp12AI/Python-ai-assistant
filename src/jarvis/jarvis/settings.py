@@ -69,7 +69,7 @@ Keys Description:
 DEFAULT_GENERAL_SETTINGS = {
     'assistant_name': 'Jarvis',
     'input_mode': InputMode.VOICE.value,
-    'response_in_speech': False,
+    'response_in_speech': True,
 }
 
 
